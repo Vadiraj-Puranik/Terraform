@@ -1,2 +1,5 @@
 # Terraform
-Repository about various AWS Architectures implemented with Terraform Implementations. 
+
+Repository about various concepts about Terraform Implementation.
+
+
