@@ -1,5 +1,5 @@
 # Terraform
 
-Repository about various concepts about Terraform Implementation.
+Repository explaining various concepts about Terraform Implementation.
 
 
