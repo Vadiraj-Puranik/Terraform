@@ -17,7 +17,7 @@ resource "local_file" "new" {
 }
 ``` 
 
-local_file == resource.TypeOfResource<br>
+local_file == resource.TypeOfResource <br>
 new = Name of resource
 
 
