@@ -16,9 +16,9 @@ resource "local_file" "new" {
   content  = "This is a new file"
 }
 ``` 
-
-local_file == resource.TypeOfResource <br>
-new = Name of resource
+resource =Block type <br>
+local_file = provider.resource <br>
+new = Name of resource <br>
 
 
 
