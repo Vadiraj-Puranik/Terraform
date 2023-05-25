@@ -14,4 +14,4 @@ Step 5: Run terraform --help which should display as below
 
 ![image](https://user-images.githubusercontent.com/113619300/213459547-fcfe6b63-73ca-4bc1-aeb8-9685d91ab801.png)
 
-
+More on : https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli
