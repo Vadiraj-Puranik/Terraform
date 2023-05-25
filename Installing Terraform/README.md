@@ -8,7 +8,7 @@ Step 2: Once the zip file is downloaded , move the zip file to your prefered loc
 
 Step 3: I have moved it to C:\terraform 
 
-Step 4: Go to your system propertied and add an environment variable for the path of your download 
+Step 4: Go to your system properties and add an environment variable for the path of your download 
 
 Step 5: Run terraform --help which should display as below 
 
